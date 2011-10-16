@@ -1,0 +1,13 @@
+permalink: blog/:title/ # permalink can be changed
+pygments: true # for code highlighting
+exclude: ['Rakefile', 'README.md', 'config.rb']
+
+# Configuration required Sitemap.xml
+domain: mydomain.com
+title: Title of Site
+author: Author Name
+email: nice@someemail.com
+
+# Google Analytics
+google_analytics:
+  id: your_google_analytics_id

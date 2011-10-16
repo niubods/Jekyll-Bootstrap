@@ -1,0 +1,13 @@
+javascript_compressor: yui
+
+javascripts:
+  application:
+    - js/plugins.js
+    - js/script.js
+
+stylesheets:
+  style:
+    - css/globals.css
+    - css/site.css
+    - css/screen.css
+    
