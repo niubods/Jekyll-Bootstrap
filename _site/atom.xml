@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Title of Site</title>
+ <link href="http://mydomain.com/atom.xml" rel="self"/>
+ <link href="http://mydomain.com/"/>
+ <updated>2011-10-16T03:06:06-04:00</updated>
+ <id>http://mydomain.com/</id>
+ <author>
+   <name>Author Name</name>
+   <email>nice@someemail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>My First Blog Post</title>
+   <link href="http://mydomain.comtitle/"/>
+   <updated>2011-10-16T02:52:00-04:00</updated>
+   <id>http://mydomain.com./my-first-blog-post</id>
+   <content type="html">&lt;p&gt;My awesome blog post.&lt;/p&gt;</content>
+ </entry>
+ 
+
+</feed>

@@ -1,4 +1,4 @@
-permalink: blog/:title/ # permalink can be changed
+permalink: :title/ # permalink can be changed
 pygments: true # for code highlighting
 exclude: ['Rakefile', 'README.md', 'config.rb']
 

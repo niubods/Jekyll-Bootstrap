@@ -49,7 +49,7 @@ end
 desc 'Build site with Jekyll'
 task :build => [:clean, :jammit] do
   puts "running jekyll"
-  system 'jekyll && mv _site'
+  system 'jekyll'
 end
 
 desc 'Start server with --auto'
